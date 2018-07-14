@@ -1,4 +1,4 @@
 # Write your code here.
-def line
-  return "the line is empty"
+def line(string)
+  puts "The line is currently empty."
 end
