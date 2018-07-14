@@ -1,8 +1,8 @@
 # Write your code here.
-def katz_deli(string)
+def line(katz_deli)
   puts "The line is currently empty."
 end
 
-def other_deli(string)
+def line(other_deli)
   puts "The line is currently: 1. Logan 2. Avi 3. Spencer"
 end
