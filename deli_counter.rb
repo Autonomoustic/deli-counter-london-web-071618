@@ -23,7 +23,7 @@ def now_serving(deli)
   if deli.empty?
     puts "The line is currentl empty."
   else
-    puts "Currently serving #{name}."deli.shift
+    puts "Currently serving #{name}."
   end
   deli.shift
 end
