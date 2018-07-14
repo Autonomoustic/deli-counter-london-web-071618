@@ -3,7 +3,7 @@
 katz_deli = []
 
 def line(deli)
-  if line == "there is nobody in line"
+  if deli.empty?
     puts "The line is empty"
   else
     current_line = "The line is currently:"
